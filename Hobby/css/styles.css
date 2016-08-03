@@ -1,0 +1,58 @@
+body{
+	background-color: #FAF0E6;
+	font-family: Helvetica, Arial, serif;
+	padding: 46px;
+}
+
+.paragraphs{
+	font-weight: lighter;
+}
+
+img{
+	width: 300px;
+	height: auto;
+	padding-right: 50px;
+}
+
+.navigation{
+	padding-left: 0px;
+}
+.navigation li{
+	list-style: none;
+	margin: 0;
+	padding: 5px;
+	display: inline;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#foodQuote{
+	color: #00004d;
+	letter-spacing: 2px;
+}
+
+a:link{
+	color: #CD5C5C;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #DB7093; /* FIX ME! Not working!*/
+	text-decoration: none;
+}
+
+a:hover{
+	color: #6A5ACD;
+	text-decoration: none;
+}
+
+a:active{
+	color: #008080;
+}
+
+table#sizeChart{
+	border: 1px solid black;
+	text-align: center;
+	padding: 5px;
+	border-spacing: 10px;
+}

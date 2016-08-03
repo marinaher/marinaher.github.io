@@ -1,0 +1,34 @@
+<body>
+		</div>
+		<table>
+			<tr>
+				<td><img src="images/oatmeal.jpg" title="Oatmeal with mango and a cup of coffee" alt="Oatmeal with mango and a cup of coffee"></td>
+				<td>
+					<p>Most important meal of the day, Breakfast! <br>
+					Oatmeal with fresh mangoes is one of my favorite breakfast items to have.</p>
+					<p>Regular instant oatmeal mixed with some hot milk and a little bit of sugar (or cinnamon sugar) is all you need. Don't forget about the fresh fruit too!</p>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="images/eggbread.jpg" title="Sunnyside up egg on toast" alt="Sunnyside up egg on toast"></td>
+				<td>
+					<p>This sunnyside up egg on toast is also a great way to start your day.</p>
+					<p>Here are some health benefits of eggs:</p>
+					<ol>
+						<li>Eggs are incredsibly nutritious</li>
+						<li>Doesn't adversely affect blood cholesterol</li>
+						<li>Contain Choline - used to build cel membranes and has a role in producing signaling molecules to the brain.</li>
+					</ol>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="images/redcurry.jpg" title="Spicy Red curry and coconut noodle soup"></td>
+				<td><a href="http://thewoksoflife.com/2015/05/15-minute-coconut-curry-noodle-soup/" target="_blank">Spicy red curry and coconut noodle soup</a>. <br> Best served on cold rainy days with the ones you love...and Netflix.</td>
+			</tr>
+			<tr>
+				<td><img src="images/shrimpavo.jpg" title="Shrimp avocado and spinach salad" alt="Shrimp avocado and spinach salad"></td>
+				<td>You can never go wrong with a shrimp, avocado and spinach salad. <br>Drizzle your favorit healthy dressing on top and enjoy it in the sun while reading a book.</td>
+			</tr>
+		</table>
+	</div>s
+	</body>

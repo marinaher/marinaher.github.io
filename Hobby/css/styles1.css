@@ -1,0 +1,30 @@
+a:link{
+    color: #CD5C5C;
+    text-decoration: underline;
+}
+
+a:visited{
+    color: #DB7093;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #6A5ACD;
+    text-decoration: none;
+}
+
+a:active{
+    color: #008080;
+}
+
+h1{
+	font-family: Arial, serif;
+	font-weight: normal;
+	letter-spacing: 1px;
+}
+
+h3{
+    color: #CD5C5C;
+    font-weight: bold;
+    letter-spacing: 2px;
+}

@@ -39,38 +39,16 @@ header{
 	letter-spacing: 1px;
 }
 
-/*.container{
-	?????
-*/}
-
-#headerP{
+/*#headerP{
 	font-size: 18px;
 	font-family: Arial, serif;
 	letter-spacing: 2px;
 	font-weight: bold;
-}
-
-#foodQuote{}
-
-#sewQuote{}
-
-#fishQuote{
-	font-size: 18px;
-}
-
-/*#miniWall{
-	float: right;
-	padding: 5px;
-	height: 50px;
-	width: auto;
 }*/
 
-/*#bassPic{
-	height: 200px;
-	width: auto;
-	border: 1px solid black;
-	padding: 2px;
-}*/
+#quote{
+	font-size: 16px;
+}
 
 div.img img{
 	height: 250px;
@@ -80,7 +58,7 @@ div.img img{
 }
 
 h1{
-    color: #CD5C5C;
+    color: #004466;
     font-weight: bold;
     letter-spacing: 2px;
 }

@@ -79,6 +79,13 @@ h3{
 	padding: 8px;
 }
 
+.cellPara{
+	display: table-cell;
+	border: none;
+	padding: 8px;
+	font-size: 20px;
+}
+
 .imgSize{
 	height: 45%;
 	width: auto;

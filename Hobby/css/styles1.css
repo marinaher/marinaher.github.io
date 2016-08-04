@@ -65,6 +65,20 @@ header{
 	width: auto;
 }*/
 
+/*#bassPic{
+	height: 200px;
+	width: auto;
+	border: 1px solid black;
+	padding: 2px;
+}*/
+
+div.img img{
+	height: 250px;
+	width: auto;
+	border: 1px solid black;
+	padding: 2px;
+}
+
 h1{
     color: #CD5C5C;
     font-weight: bold;
@@ -103,4 +117,8 @@ table, th, td{
 th{
 	padding: 15px;
 	text-align: center;
+	background-color: grey;
+	color: white;
+	font-size: 15px;
+	letter-spacing: 1px;
 }

@@ -29,7 +29,7 @@ a:active{
 	padding: 5px;
 	display: inline;
 	font-weight: bold;
-	font-size: 15px;
+	font-size: 18px;
 }
 
 header{
@@ -38,13 +38,6 @@ header{
 	font-weight: bold;
 	letter-spacing: 1px;
 }
-
-/*#headerP{
-	font-size: 18px;
-	font-family: Arial, serif;
-	letter-spacing: 2px;
-	font-weight: bold;
-}*/
 
 #quote{
 	font-size: 16px;

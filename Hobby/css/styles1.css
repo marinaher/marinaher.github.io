@@ -83,19 +83,19 @@ h3{
 	display: table-cell;
 	border: none;
 	padding: 8px;
-	font-size: 20px;
+	font-size: 17px;
 }
 
 .cellParaOl{
 	display: table-cell;
 	border: none;
 	padding: 8px;
-	font-size: 20px;
+	font-size: 17px;
 	position: absolute;	
 }
 
 .imgSize{
-	height: 45%;
+	height: 40%;
 	width: auto;
 }
 

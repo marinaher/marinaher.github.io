@@ -86,6 +86,14 @@ h3{
 	font-size: 20px;
 }
 
+.cellParaOl{
+	display: table-cell;
+	border: none;
+	padding: 8px;
+	font-size: 20px;
+	position: absolute;	
+}
+
 .imgSize{
 	height: 45%;
 	width: auto;

@@ -17,14 +17,85 @@ a:active{
     color: #008080;
 }
 
-h1{
+.jumbotron{
+	background-color: #ff9999;
+	text-align: center;
+	color: #00334d;
+}
+
+.navigation li{
+	list-style: none;
+	margin: 0;
+	padding: 5px;
+	display: inline;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+header{
 	font-family: Arial, serif;
-	font-weight: normal;
+	font-size: 	40px;
+	font-weight: bold;
 	letter-spacing: 1px;
 }
 
-h3{
+/*.container{
+	?????
+*/}
+
+#headerP{
+	font-size: 18px;
+	font-family: Arial, serif;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+
+#foodQuote{}
+
+#sewQuote{}
+
+#fishQuote{
+	font-size: 18px;
+}
+
+#miniWall{
+	float: right;
+	padding: 5px;
+	height: 50px;
+	width: auto;
+}
+
+h1{
     color: #CD5C5C;
     font-weight: bold;
     letter-spacing: 2px;
+}
+
+h3{
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: #4d4d4d;
+}
+
+.table{
+	display: table;
+}
+
+.row{
+	display: table-row;
+}
+
+.cell{
+	display: table-cell;
+	border: none;
+	padding: 8px;
+}
+
+.imgSize{
+	height: 45%;
+	width: auto;
+}
+
+.check{
+	text-align: center;
 }

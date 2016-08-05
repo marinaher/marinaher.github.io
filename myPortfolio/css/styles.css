@@ -1,0 +1,20 @@
+/*.navbar{
+	font-size: 16px;
+	font-weight: normal;
+}*/
+
+.picSlide{
+	max-width: 800px;
+	position: relative;
+}
+
+.mySlides{
+	width: 100%
+	height: auto;
+}
+
+.floatingButton{
+	position: absolute;
+	top: 45%;
+	right: 0;
+}
